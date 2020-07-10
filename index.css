@@ -1,0 +1,17 @@
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color: white;
+  transition: color 2s ease-in-out;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.clicked {
+  color: tomato; /* CSS property color no quotation! */
+  cursor: crosshair;
+}
