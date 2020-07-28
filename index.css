@@ -2,9 +2,9 @@ body {
   background-color: powderblue;
 }
 
-h1 {
+body {
   color: white;
-  transition: color 2s ease-in-out;
+  /* transition: color 2s ease-in-out; */
 }
 
 .btn {
@@ -18,7 +18,7 @@ h1 {
 
 .form,
 .greetings {
-  display: block;
+  display: none;
 }
 
 .showing {
