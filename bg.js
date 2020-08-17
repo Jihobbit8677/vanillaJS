@@ -16,6 +16,7 @@
 //   return number;
 // };
 
+// init = () => {
 //   const randomNumber = genRandom();
 //   paintImage(randomNumber);
 // };
